@@ -3,10 +3,8 @@
 
 Description:
 
-It breaks things down into three main sections:
+1.Understanding Digital Literacy: The first section explains that being digitally literate means you can confidently find and evaluate information online. It highlights the importance of thinking critically, mastering everyday tech tools, and acting ethically.
 
-Understanding Digital Literacy: The first section explains that being digitally literate means you can confidently find and evaluate information online. It highlights the importance of thinking critically, mastering everyday tech tools, and acting ethically (like respecting copyright).
+2.Helpful Tools: The middle section refers to three specific platforms to boost your productivity: Google Scholar for academic research, Canva for creating visuals, and Notion for organizing your notes and projects.
 
-Helpful Tools: The middle section recommends three specific platforms to boost your productivity: Google Scholar for academic research, Canva for creating visuals, and Notion for organizing your notes and projects.
-
-Online Safety: The final section offers classic, crucial advice for protecting your digital identity. It reminds you to use strong passwords, watch out for sneaky phishing links, and regularly check your privacy settings.
+3.Online Safety: The final section offers classic, crucial advice for protecting your digital identity. It reminds you to use strong passwords, watch out for sneaky phishing links, and regularly check your privacy settings.
