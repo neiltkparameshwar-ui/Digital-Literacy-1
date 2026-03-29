@@ -1,34 +1,29 @@
-PART A- 
+PART A:
 
-Emails:
+[Task 4.docx](https://github.com/user-attachments/files/26335624/Task.4.docx)
 
-Email 1-
+PART B:
 
-Subject: Extension request for Assignment
+The Do’s
 
-Dear Professor,
+1.Audit your privacy settings regularly: Take ten minutes every few months to make sure your personal posts are only visible to the people you actually know.
 
-I’m writing to ask if it might be possible to get a brief extension on the due this thrusday.
+2.Post your "wins": Share photos or descriptions of successful projects, like a complex Python script you wrote or a circuit you successfully built.
 
-I’ve been working through the material, but due to an emergency in my family, I haven't been able to complete it. I want to make sure I’m submitting work that actually meets the standards of the course rather than rushing through it.
+3.Use a professional headshot: For platforms like LinkedIn, use a clear, friendly photo with a neutral background.
 
-Would it be possible to turn this in by next monday instead? I’ve already made good progress and just need a little extra time to polish the final version.
+4.Network with intent: Follow industry leaders, professors, and companies you admire to stay informed about internships and research opportunities.
 
-Thank you so much for considering this.
+5.Think before you post: Always ask yourself if you’d be comfortable with a future employer or a dean seeing what you’re about to share.
 
-Regards.
+The Don’ts
 
+1.Don’t post sensitive info: Keep your home address, student ID number, and specific class locations off public stories and bios.
 
-Email 2-
+2.Don’t engage in "digital drama": Avoid getting into heated public arguments or "calling out" others, as this can signal a lack of professionalism to recruiters.
 
-Subject: Summer Internship Inquiry
+3.Don’t share questionable content: Avoid posting photos or videos involving illegal activities, excessive partying, or offensive language.
 
-Dear Sir/Ma'am,
+4.Don’t vent about academics: Never post specific complaints about a professor or share exam questions, as this can lead to academic integrity issues.
 
-My name is Neil Tarun Parmeshwar, and I’m currently a fresher studying B.Tech CSE at VIT Bhopal University. I’ve been following Ribbon Communications and I’d love to see if there are any internship openings on your team for this coming summer.
-
-I’ve spent the last year diving deep into Python and JAVA, and I’m really looking for a chance to apply those skills in a fast-paced environment like yours. I’ve attached my resume and a few of my recent projects if you’d like to take a look.
-
-I know you’re likely busy, but I’d appreciate the chance to chat briefly about how I might be able to help out the team this summer. Thanks for your time!
-
-Best regards.
+5.Don’t assume "deleted" means "gone": Remember that screenshots and archives exist; once it is online, it is potentially permanent.
