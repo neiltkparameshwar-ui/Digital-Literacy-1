@@ -5,3 +5,9 @@ PART A:
 PART B:
 
 
+
+
+<img width="929" height="725" alt="Screenshot 2026-03-30 023155" src="https://github.com/user-attachments/assets/781021a6-2c88-462f-86bd-b72704a639c3" />
+
+
+<img width="783" height="851" alt="Screenshot 2026-03-30 023316" src="https://github.com/user-attachments/assets/90c8b626-eeab-412e-938b-bfb0492bf3ca" />
